@@ -1,0 +1,15 @@
+import React from 'react'
+import Layout from '../components/layout'
+import Title from '../components/title'
+export default () => (
+    <div style={{ backgroundImage: "url(" + "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" + ")" }}>
+        <Layout>
+            <Title text="About" />
+            <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Semper auctor neque vitae tempus quam pellentesque nec. Nam at lectus urna duis convallis. Fermentum posuere urna nec tincidunt praesent semper. Eu scelerisque felis imperdiet proin fermentum. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Semper risus in hendrerit gravida rutrum. Augue ut lectus arcu bibendum. Lorem ipsum dolor sit amet consectetur adipiscing elit. A diam maecenas sed enim ut sem viverra. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Id venenatis a condimentum vitae. Tincidunt lobortis feugiat vivamus at. Lectus sit amet est placerat in egestas erat. Cras pulvinar mattis nunc sed. Et tortor consequat id porta nibh venenatis cras sed.</h4>
+
+            <h4>Risus at ultrices mi tempus imperdiet nulla malesuada. Accumsan sit amet nulla facilisi morbi. Et malesuada fames ac turpis egestas maecenas pharetra. Non odio euismod lacinia at. Dignissim enim sit amet venenatis urna cursus. Porta nibh venenatis cras sed felis eget velit aliquet sagittis. Quis eleifend quam adipiscing vitae proin sagittis. Morbi blandit cursus risus at. Vel facilisis volutpat est velit egestas dui. Lacus sed viverra tellus in hac habitasse platea dictumst vestibulum. Elit ut aliquam purus sit amet luctus. Sed cras ornare arcu dui vivamus. Massa eget egestas purus viverra accumsan in nisl nisi. Mattis pellentesque id nibh tortor. In fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Bibendum arcu vitae elementum curabitur vitae nunc. Velit laoreet id donec ultrices tincidunt arcu non. Penatibus et magnis dis parturient montes nascetur ridiculus mus mauris.</h4>
+
+            <h4>Libero volutpat sed cras ornare arcu dui vivamus. Nec ultrices dui sapien eget mi. Fringilla ut morbi tincidunt augue. Scelerisque eleifend donec pretium vulputate sapien. Massa placerat duis ultricies lacus sed turpis tincidunt id aliquet. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Vel pretium lectus quam id leo in vitae. Convallis a cras semper auctor neque vitae. Viverra accumsan in nisl nisi scelerisque eu ultrices. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Facilisis gravida neque convallis a cras semper auctor. Viverra orci sagittis eu volutpat odio facilisis. Varius morbi enim nunc faucibus. Euismod in pellentesque massa placerat duis ultricies. Auctor eu augue ut lectus arcu. Ac turpis egestas maecenas pharetra. Ac tortor dignissim convallis aenean. Cursus risus at ultrices mi.</h4>
+        </Layout>
+    </div>
+)
