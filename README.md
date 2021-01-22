@@ -1,10 +1,10 @@
-#argha-blog
+# argha-blog
 
-##Tech Stack:
+## Tech Stack:
 1. GatsbyJS
 2. ReactJS
 3. GraphQL
-4. Sass
+4. Sass and CSS
 
-##URL:
+## URL:
 
