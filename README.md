@@ -7,4 +7,4 @@
 4. Sass and CSS
 
 ## URL:
-https://important-rain.surge.sh
+important-rain.surge.sh
